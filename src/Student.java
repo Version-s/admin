@@ -6,4 +6,6 @@ public class Student {
     String name;
 
     String age;
+
+    String bran1;
 }
