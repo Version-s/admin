@@ -4,4 +4,6 @@
  */
 public class Student {
     String name;
+
+    String address;
 }
